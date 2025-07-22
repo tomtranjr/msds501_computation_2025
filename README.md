@@ -22,6 +22,6 @@ This fork tracks updates from the original course repo and includes my personal 
 Original repo: [dianewoodbridge/msds501_computation_2025](https://github.com/dianewoodbridge/msds501_computation_2025)
 
 ### 🙏 Credits
-All course materials, slides, and examples were created by [**Professor Diane Woodbridge**] (https://github.com/dianewoodbridge), University of San Francisco.
+All course materials, slides, and examples were created by [Professor Diane Woodbridge](https://github.com/dianewoodbridge), University of San Francisco.
 
 This fork is maintained by [Tom Tran Jr](https://github.com/tomtranjr) as part of MSDS Cohort 14 (Summer 2025).
